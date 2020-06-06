@@ -1,9 +1,9 @@
 {
-  "name": "@micro-frontend/home",
+  "name": "@micro-frontend/component",
   "version": "0.1.0",
   "private": true,
-  "description": "Micro frontend home service",
-  "repository": "git@github.com:iteration-0/micro-frontend-home-react.git",
+  "description": "Micro frontend component service",
+  "repository": "git@github.com:iteration-0/micro-frontend-component-react.git",
   "author": "Wayde Sun",
   "license": "MIT",
   "dependencies": {
@@ -14,9 +14,9 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://mfe.main.sunwei.xyz",
+  "homepage": "https://mfe.component.sunwei.xyz",
   "scripts": {
-    "start": "PORT=4000 react-scripts start",
+    "start": "PORT=4101 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
